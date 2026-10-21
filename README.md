@@ -1,11 +1,13 @@
 # TDQ-EN
-English fan translation for Theatrythm Dragon Quest for 3DS
-This is a LayeredFS approach, and includes a patcher to update the DLC .CIA.
+
+### English fan translation for Theatrythm Dragon Quest for 3DS
+
+This is a **LayeredFS** approach, and includes a patcher to update the DLC .CIA.
 
 Use 'Releases' on the right to download the latest version.
 
 This is currently a beta version which may be missing a few things, a 1.0 version will be uploaded when it's ready.
 
-In particular, none of the backs of the CollectaCards are translated yet.
+(For example, none of the backs of the CollectaCards are translated yet.)
 
 The final version will also include a separate patcher if you would prefer to update the main .CIA file itself.
