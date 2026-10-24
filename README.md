@@ -2,7 +2,7 @@
 
 ### English fan translation for Theatrythm Dragon Quest for 3DS
 
-<img width="561" height="668" alt="image" src="https://github.com/user-attachments/assets/531a62da-7afa-4c90-9318-2c3b0a045d08" />
+<img width="550" height="656" alt="image" src="https://github.com/user-attachments/assets/d69785e3-0013-4529-a13c-84d6c1b9a98d" />
 
 This is a **LayeredFS** approach, and includes a patcher to update the DLC .CIA.
 
