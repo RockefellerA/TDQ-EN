@@ -15,9 +15,9 @@ Strings and images were translated by me (not AI!) using modern official localiz
 
 From "Releases" on the right, there are two .zips:
 
-* TDQ-EN.zip: This is the LayeredFS patch, which swaps out game assets.  Disabling patching on Luma3DS or removing the assets removes the patch. (Note: While the main game can use LayeredFS, the DLC requires editing the .CIA and reinstalling it.)
+* TDQ-LayeredFS-EN.zip: This is the LayeredFS patch, which swaps out game assets.  Disabling patching on Luma3DS or removing the assets removes the patch. (Note: While the main game can use LayeredFS, the DLC requires editing the .CIA and reinstalling it.)
   
-* TDQ-EN-Patcher.zip: This patches the game .CIA's so that the changes are baked in.  The original files are left untouched, this creates a patched copy.
+* TDQ-Patcher-EN.zip: This patches the game .CIA's so that the changes are baked in.  The original files are left untouched, this creates a patched copy.
 
 Instructions are included for both Luma3DS (modded 3DS hardware) and emulator equivalents.
 
