@@ -6,8 +6,10 @@
 
 ## What this patch does:
 This includes both a **LayeredFS** approach and a patcher approach for the game and DLC. You will need to provide your own copy of the game and/or DLC.
-All Japanese text is replaced (outside of the credits).  The game is fully playable.
-Strings and images were translated by me (not AI!) using either whatever would fit, or 
+
+All Japanese text is replaced (outside of the credits). The game is fully playable.
+
+Strings and images were translated by me (not AI!) using modern official localizations wherever possible.
 
 ### How to Use:
 
