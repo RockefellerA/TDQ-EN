@@ -2,22 +2,9 @@
 
 ## English fan translation for Theatrythm Dragon Quest for 3DS
 
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <!-- Wrapping in marquee for a simple scrolling loop -->
-        <marquee behavior="scroll" direction="left" scrollamount="5" loop="infinite">
-          <img width="550" height="656" alt="image" src="https://github.com/user-attachments/assets/d69785e3-0013-4529-a13c-84d6c1b9a98d" />
-          <img width="562" height="664" alt="TDQ4" src="https://github.com/user-attachments/assets/40fe8092-ac4e-4c8e-8798-24719e32068b" />
-          <img width="1100" height="1313" alt="TDQ3" src="https://github.com/user-attachments/assets/ceaea052-a4ab-4f51-92c7-d91ac7d3ab98" />
-          <img width="554" height="663" alt="TDQ2" src="https://github.com/user-attachments/assets/d0cbe636-3330-408d-bd27-f6230f2fec22" />
-        </marquee>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img width="560" height="664" alt="TDQ-screenshots" src="https://github.com/user-attachments/assets/ed6f70bb-5e39-4223-932f-79c0082c0212" />
+</p>
 
 ## What this patch does:
 This includes both a **LayeredFS** approach and a patcher approach for the game and DLC. You will need to provide your own copy of the game and/or DLC.
