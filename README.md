@@ -11,7 +11,7 @@ All Japanese text is replaced (outside of the credits). The game is fully playab
 
 Strings and images were translated by me (not AI!) using modern official localizations wherever possible.
 
-### How to Use:
+## How to Use:
 
 From "Releases" on the right, there are two .zips:
 
@@ -21,5 +21,5 @@ From "Releases" on the right, there are two .zips:
 
 Instructions are included for both Luma3DS (modded 3DS hardware) and emulator equivalents.
 
-### Special Thanks:
+## Special Thanks:
 lankelink on GameFAQs for consultation, playtesting, and their [guide](https://gamefaqs.gamespot.com/3ds/100290-theatrhythm-dragon-quest/faqs/81782).
