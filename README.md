@@ -13,7 +13,7 @@ All Japanese text is replaced (outside of the credits). The game is fully playab
 
 Strings and images were translated by me (not AI!) using modern official localizations wherever possible.
 
-Also included is a script that allows you to edit your save file to unlock StreetPass exclusive monster tablets and their associated achievement. Enjoy!
+Also included is a script that allows you to edit a decrypted save file to unlock StreetPass exclusive monster tablets and their associated achievement. Enjoy!
 
 ## How to Use:
 
