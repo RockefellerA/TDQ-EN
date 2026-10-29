@@ -13,7 +13,15 @@ All Japanese text is replaced (outside of the credits). The game is fully playab
 
 Strings and images were translated by me (not AI!) using modern official localizations wherever possible.
 
-Also included is a script that allows you to edit a decrypted save file to unlock StreetPass exclusive monster tablets and their associated achievement. Enjoy!
+Also included is a script that allows you to:
+
+* Edit a decrypted save file to unlock StreetPass exclusive monster tablets
+  
+* The associated monster tablet achievement.
+  
+* Increment the player's hero scrolls, since the game only gives you 6 when 7 characters can unlock the job.
+
+  Enjoy!
 
 ## How to Use:
 
