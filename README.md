@@ -17,7 +17,7 @@ Also included is a script that allows you to:
 
 * Edit a decrypted save file to unlock StreetPass exclusive monster tablets
   
-* The associated monster tablet achievement.
+* Unlock the associated monster tablet achievement.
   
 * Increment the player's hero scrolls, since the game only gives you 6 when 7 characters can unlock the job.
 
