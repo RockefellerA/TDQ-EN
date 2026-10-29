@@ -21,8 +21,6 @@ Also included is a script that allows you to:
   
 * Increment the player's hero scrolls, since the game only gives you 6 when 7 characters can unlock the job.
 
-  Enjoy!
-
 ## How to Use:
 
 From "Releases" on the right, there are two .zips:
