@@ -13,6 +13,8 @@ All Japanese text is replaced (outside of the credits, which is a movie). The ga
 
 Strings and images were translated by me (not AI!) using modern official localizations wherever possible.
 
+**As of v1.5, this additionally re-enables the 3D!**
+
 Also included is a script that allows you to:
 
 * Edit a decrypted save file to unlock StreetPass exclusive monster tablets
