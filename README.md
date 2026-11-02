@@ -13,7 +13,7 @@ All Japanese text is replaced (outside of the credits, which is a movie). The ga
 
 Strings and images were translated by me (not AI!) using modern official localizations wherever possible.
 
-Additionally, this also re-enables the stereoscopic 3D!**
+**Additionally, this also re-enables the stereoscopic 3D!**
 
 Also included is a script that allows you to:
 
