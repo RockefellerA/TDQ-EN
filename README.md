@@ -13,7 +13,7 @@ All Japanese text is replaced (outside of the credits, which is a movie). The ga
 
 Strings and images were translated by me (not AI!) using modern official localizations wherever possible.
 
-**As of v1.5, this additionally re-enables the 3D!** _(Runs best on New 3DS, see note below)_
+**As of v1.5, this additionally re-enables the 3D!**
 
 Also included is a script that allows you to:
 
@@ -31,9 +31,9 @@ From "Releases" on the right, there are two .zips:
   
 * TDQ-Patcher-EN.zip: This patches the game .CIA's so that the changes are baked in.  The original files are left untouched, this creates a patched copy.
 
-**NOTE:**  The stereoscopic 3D enablement in v1.5 may produce minor framerate hitches on original 3DS hardware - it runs perfectly smooth on New 3DS with the clock speed/cache improved. **If you're using an original 3DS, you may want to use v1.4 instead.**
-
 Instructions are included for both Luma3DS (modded 3DS hardware) and emulator equivalents.
+
+**NOTE:**  The stereoscopic 3D may produce minor framerate hitches on original 3DS hardware - it runs perfectly smooth on New 3DS with the clock speed/cache improved. Leaving the slider at 0/off avoids this completely.
 
 ## Special Thanks:
 lankelink on GameFAQs for consultation, playtesting, and their [guide](https://gamefaqs.gamespot.com/3ds/100290-theatrhythm-dragon-quest/faqs/81782).
